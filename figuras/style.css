@@ -22,7 +22,7 @@
   --fuente-secuendaria: sans-serif;
 
   /* Color y tamaño de las figuras */
-  --color-figuras: hsl(0, 0%, 0%);
+  --color-figuras: hsl(115, 100%, 63%);
   --longitud-muestra: 100px;
 }
 
@@ -114,7 +114,7 @@
 }
 
 .figura--arrastrando {
-  opacity: 100%
+  opacity: 20%
   /* ======= COMPLETAR REGLA ====== */
 }
 
