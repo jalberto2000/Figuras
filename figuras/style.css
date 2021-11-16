@@ -64,8 +64,9 @@
   /* El estilo del borde cambiará dinámicamente con JS 
      para ilustrar cuando una figura entra en el panel del patrón  */
   border: 1px solid var(--color-primario);
-  display:inline-block;
+
   /* ======= COMPLETAR REGLA ====== */
+  display:inline-block;
   height: 8rem;
   margin: 2%;
   /* El panel del patrón se muestra centrado dentro del panel */
@@ -79,7 +80,6 @@
   border: 1px solid var(--color-primario);
   /* ======= COMPLETAR REGLA ====== */
   
-  text-align:center;
   /* Las figuras del panel se muestran centradas */
 }
 
